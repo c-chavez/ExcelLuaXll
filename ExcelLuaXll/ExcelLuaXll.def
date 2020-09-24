@@ -1,0 +1,4 @@
+EXPORTS
+	xlAutoOpen
+
+	LUA_ExecFunc
