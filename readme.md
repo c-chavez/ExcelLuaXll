@@ -27,8 +27,7 @@ Like Excel? also like Lua? Add to Excel Lua scripting capabilities, with this XL
 
 - In Excel enter the Lua Formula: =Lua.ExecFun("**ExecMult**",C3,D3). The first parameter is the Lua function (see Lua script bellow), the other two are the parameter sent from Excel to the Lua Script.
 
- ![image-20200922212532786](.\AnciliaryFiles\image-1.png)
-
+ ![](AnciliaryFiles/image-1.png)
   
 
 ## Lua Script Example
