@@ -1,4 +1,4 @@
-# XLL Add-in to execute Lua functions from withing Excel.
+# XLL Add-in to execute Lua functions from within Excel.
 
 Like Excel? also like Lua? Add to Excel Lua scripting capabilities, with this XLL Ad-in, although a bit contrived, you can call  Lua functions from Excel.
 
